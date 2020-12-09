@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/annguyez/Crud-app-reactjs-hook/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/annguyez/Crud-app-reactjs-hook/static/js/main.d32c9b52.chunk.js",
-    "main.js.map": "/annguyez/Crud-app-reactjs-hook/static/js/main.d32c9b52.chunk.js.map",
+    "main.js": "/annguyez/Crud-app-reactjs-hook/static/js/main.9ec7738d.chunk.js",
+    "main.js.map": "/annguyez/Crud-app-reactjs-hook/static/js/main.9ec7738d.chunk.js.map",
     "runtime-main.js": "/annguyez/Crud-app-reactjs-hook/static/js/runtime-main.a83396ad.js",
     "runtime-main.js.map": "/annguyez/Crud-app-reactjs-hook/static/js/runtime-main.a83396ad.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/annguyez/Crud-app-reactjs-hook/static/css/2.20aa2d7b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.89af6322.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.d32c9b52.chunk.js"
+    "static/js/main.9ec7738d.chunk.js"
   ]
 }
